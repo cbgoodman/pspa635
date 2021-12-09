@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Citations and bibliography | Revenue Analysis &amp; Financial Management</title>
+    <link>https://pspa611.cgoodman.com/reference/</link>
+      <atom:link href="https://pspa611.cgoodman.com/reference/index.xml" rel="self" type="application/rss+xml" />
+    <description>Citations and bibliography</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator>
+    <image>
+      <url>https://pspa611.cgoodman.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Citations and bibliography</title>
+      <link>https://pspa611.cgoodman.com/reference/</link>
+    </image>
+    
+    <item>
+      <title>Professional and Data Resources</title>
+      <link>https://pspa611.cgoodman.com/reference/prof-orgs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pspa611.cgoodman.com/reference/prof-orgs/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://icma.org/topic-search/finance-%26-budgeting?page=1&amp;amp;grid_enabled=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICMA Finance &amp;amp; Budgeting Resources&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gfoa.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Government Finance Officers Association&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.igfoa.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Illinois Government Finance Officers Association&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://illinoiscomptroller.gov/financial-data/local-government-division/local-government-data/searchform/?SearchType=AFRSearch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IL Comptroller Annual Financial Report Search Form&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.census.gov/govs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Census of Governments&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

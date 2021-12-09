@@ -1,0 +1,30 @@
+main:
+  - name: Syllabus
+    url: /syllabus/
+    weight: 1
+  - name: Schedule
+    url: /schedule/
+    weight: 2
+  - name: Content
+    url: /content/
+    weight: 3
+  - name: Assignments
+    url: /assignment/
+    weight: 4
+  - name: Reference
+    url: /reference/
+    weight: 5
+
+content:
+  - name: Overview
+    weight: 1
+  - name: Course content
+    weight: 2
+
+assignment:
+  - name: Assignments
+    weight: 1
+  - name: Memos
+    weight: 2
+  - name: Final Project
+    weight: 3

@@ -1,0 +1,57 @@
+lessons:
+  - title: '<span class="fake-header-table">Public Finance</span>'
+    header: True
+
+  - title: '<i class="fas fa-university"></i> Introduction to Public Finance'
+    date: "August 19"
+    content: "01-content"
+
+  - title: '<i class="fas fa-university"></i> Income & Consumption Taxation'
+    date: "August 26"
+    content: "02-content"
+
+  - title: '<i class="fas fa-star"></i> **Memo 1**'
+    date: "September 2"
+    assignment: "01-memo"
+
+  - title: '<i class="fas fa-university"></i> Property Taxes & User Fees'
+    date: "September 2"
+    content: "03-content"
+
+  - title: '<span class="fake-header-table">Financial Management</span>'
+    header: True
+
+  - title: '<i class="fas fa-university"></i> Financial Accounting I'
+    date: "September 9"
+    content: "04-content"
+
+  - title: '<i class="fas fa-star"></i> **Memo 2**'
+    date: "September 9"
+    assignment: "02-memo"
+
+  - title: '<i class="fas fa-university"></i> Financial Accounting II'
+    date: "September 16"
+    content: "05-content"
+
+  - title: '<i class="fas fa-university"></i> Financial Accounting III'
+    date: "September 23"
+    content: "06-content"
+
+  - title: '<i class="fas fa-star"></i> **Memo 3**'
+    date: "September 23"
+    assignment: "03-memo"
+
+  - title: '<i class="fas fa-university"></i> Procurement'
+    date: "September 30"
+    content: "07-content"
+
+  - title: '<i class="fas fa-university"></i> Presentations'
+    date: "October 7"
+    assignment: "presentation"
+
+  - title: '<span class="fake-header-table">Final</span>'
+    header: True
+
+  - title: "**Final project due** (submit online by 11:59 PM)"
+    date: "October 7"
+    assignment: "revenue-analysis"

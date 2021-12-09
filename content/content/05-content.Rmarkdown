@@ -1,0 +1,30 @@
+---
+title: "Financial Accounting II"
+linktitle: "5: Financial Accounting II"
+date: "2021-09-16"
+start_date: "2021-09-13"
+end_date: "2021-09-19"
+menu:
+  content:
+    parent: Course content
+    weight: 5
+type: docs
+toc: true
+bibliography: ../../static/bib/references.bib
+csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
+---
+
+## Required Reading
+
+- <i class="fas fa-book"></i> Chapter 3 in *Financial Strategy for Public Managers* [@kioko-marlowe]
+- <i class="fas fa-book"></i> Chapter 17 in *Management Policies in Local Government Finance*. [@wang2013] Posted on Blackboard.
+
+## Recommended Reading
+
+- <i class="far fa-file-pdf"></i> "The 10-Point Test of Financial Condition" [@brown1993]
+- <i class="far fa-file-pdf"></i> "Revisiting Kenneth Brown's *10-Point Test*" [@maher2009]
+- <i class="far fa-file-pdf"></i> "Implementation of Financial Condition Analysis in Local Government." [@rivenbark2011]
+
+## Slides
+
+`r blogdown::shortcode("slides")`
