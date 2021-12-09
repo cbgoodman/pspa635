@@ -1,5 +1,5 @@
 (() => {
-  // ns-hugo:/Users/chrisgoodman/Dropbox/Personal/website/pspa611/themes/wowchemy-hugo-modules/wowchemy/assets/js/wowchemy-theming.js
+  // ns-hugo:/Users/chrisgoodman/Dropbox/Personal/website/pspa635/themes/wowchemy-hugo-modules/wowchemy/assets/js/wowchemy-theming.js
   var body = document.body;
   function getThemeMode() {
     return parseInt(localStorage.getItem("wcTheme") || 2);
